@@ -1,2 +1,3 @@
 # GO-DEMO
-self-practice in go
+
+pushing code from Exercism
