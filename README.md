@@ -1,4 +1,4 @@
 # GO-DEMO
 
 pushing code from Exercism
-exercism.io
+<p><a href="https://exercism.io/">exercism.io</a>
