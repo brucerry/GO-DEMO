@@ -4,8 +4,7 @@
   
 <p>:partying_face: It's pleasure to have your advice on any of my coding style, program design, algorithm and technical skills for better behaviour :rocket::rocket:
  
-![1200px-Go_Logo_Blue svg](https://user-images.githubusercontent.com/88369201/153187454-77af133d-e690-4b45-bf5f-08e17b0c4d17.png)
-
+![41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a](https://user-images.githubusercontent.com/88369201/153447763-9200334f-f492-4692-8152-9800fd9c4c46.png)
 
 <!--
 :pushpin: On going
