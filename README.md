@@ -4,8 +4,7 @@
   
 <p>:partying_face: It's pleasure to have your advice on any of my coding style, program design, algorithm and technical skills for better behaviour :rocket::rocket:
  
-![Docker-Gopher-Banner](https://user-images.githubusercontent.com/88369201/153449667-f640aa0a-c508-4bd3-b894-0be93cd78650.png)
-
+![41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a](https://user-images.githubusercontent.com/88369201/153451248-38ac9b78-d8f0-4a77-9c2f-1380c2624c17.png)
 
 <!--
 :pushpin: On going
