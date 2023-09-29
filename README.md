@@ -4,4 +4,4 @@ Started to learn and write go-lang code in 2021 Summer but not focusing this pie
 
 ## Materials
 
-[Golang Cheatsheet](Golang-Cheat-Sheet-by-Golang-Dojo.pdf) - provided by Golang Dojo <a href="https://www.golangdojo.com/">golangdojo.com</a>
+[Golang Cheatsheet](Golang-Cheat-Sheet-by-Golang-Dojo.pdf) - provided by <a href="https://www.golangdojo.com/">Golang Dojo</a>
